@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Java with DSA and C programming
 - 📫 How to reach me aijazsana1628@gmail.com
 - 😄 Pronouns: She
+- I'm currently pursuing Btech in Computer Science
 
 
 
