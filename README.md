@@ -2,7 +2,7 @@
 
 🎓 B.Tech IT student  
 💻 Open Source Contributor  
-🌱 Outreachy 2026 Aspirant  
+🌱 GSOC 2026 Aspirant  
 
 ---
 
