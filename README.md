@@ -4,7 +4,6 @@
 💻 Aspiring Software Development Engineer <br>
 🌱 Currently learning **MERN Stack and Data Structures & Algorithms (Java)** <br>
 🚀 Passionate about **Open Source Contributions** <br>
-🎯 GSoC 2026 Aspirant 
 
 I enjoy building real-world web applications and improving my problem-solving skills through coding and open source.
 
@@ -13,9 +12,9 @@ I enjoy building real-world web applications and improving my problem-solving sk
 ## 🛠 Tech Stack
 - **Languages:** Java, JavaScript 
 - **Frontend:** React, HTML, CSS
-- **Backend:** Node.js, Express.js
+- **Backend:** Node.js, Express.js, EJS
 - **Database:** MongoDB, MySQL
-- **Tools:** Git, GitHub
+- **Tools:** Git, GitHub, VS Code
 
 ---
 
@@ -40,7 +39,7 @@ https://leetcode.com/u/Sana_Aijaz/
 * Users can create, edit, and manage travel listings
 * Implementing authentication, REST APIs, and database integration
 
-**Tech Stack:** Node.js, Express.js, MongoDB, JavaScript, React, HTML, CSS
+**Tech Stack:** Node.js, Express.js, MongoDB, JavaScript, EJS, HTML, CSS
 
 ---
 
@@ -73,7 +72,6 @@ https://leetcode.com/u/Sana_Aijaz/
 ---
 
 ## 🎯 Goals
-- Get selected for **GSOC 2026**  
 - Become a consistent and confident open-source contributor  
 - Strengthen problem-solving skills through DSA and real-world projects  
 
